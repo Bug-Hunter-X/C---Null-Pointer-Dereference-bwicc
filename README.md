@@ -1,0 +1,3 @@
+# C++ Null Pointer Dereference Bug
+
+This repository demonstrates a common C++ error: dereferencing a null pointer.  The `bug.cpp` file contains the buggy code, while `bugSolution.cpp` provides a corrected version.  The bug results in a segmentation fault or crash because the program tries to write to a memory location that doesn't exist. This is a critical error that can lead to program instability or unexpected behavior.
